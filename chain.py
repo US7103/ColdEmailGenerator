@@ -13,7 +13,7 @@ os.environ["USER_AGENT"] = "MyApp/1.0"
 
 from dotenv import load_dotenv
 load_dotenv()
-os.environ["GOOGLE_API_KEY"]="AIzaSyC6h9AGg2HRjqhS55lgd2gYHZZPDgeEJgs"
+os.environ["GOOGLE_API_KEY"]="AIzaSyC6h9A55lgd2gYHZZPDgeEJgs"
 
 
 
